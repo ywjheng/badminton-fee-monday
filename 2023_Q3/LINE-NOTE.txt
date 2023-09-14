@@ -52,7 +52,7 @@ https://github.com/ywjheng/badminton-fee-monday
 
 07/03
 請假 0
-臨打 偉群 (轉季繳)
+臨打 偉群 ~(轉季繳)~
 
 07/10
 請假 夜市 -1
@@ -64,7 +64,7 @@ https://github.com/ywjheng/badminton-fee-monday
 
 07/24
 請假 Ivy -1
-臨打 偉群 +1  (未收⚠️)
+臨打 偉群 +1  (09/09請夜市代收)
 
 07/31
 請假 0
@@ -87,8 +87,11 @@ https://github.com/ywjheng/badminton-fee-monday
 
 09/04
 請假 Frank -1
-臨打 香菇+2
+臨打 香菇+2 (現金 $300 09/11 收, 09/04請鉉竣代收)
 
 09/11
 請假 夜市, Chia Ying -2
-臨打 0
+臨打 鎮豪 +1  (現金 $150 09/11 收)
+
+
+本季結束，結餘款 $3690
