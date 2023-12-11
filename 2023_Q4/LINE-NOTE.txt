@@ -98,3 +98,7 @@ https://github.com/ywjheng/badminton-fee-monday
 23Q4 12/04 (11/12次)
 請假 0
 臨打 靖懷 +1、帆船+1   (收 LINEPAY $150、現金 $150)
+
+23Q4 12/11 (12/12次)
+請假 鎮豪 -1
+臨打 ChiaYing +1、香菇+1 (收現金 $300)
